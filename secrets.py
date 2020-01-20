@@ -1,0 +1,2 @@
+SSID = "Dom01"
+PW = "3DEVTDKB"
