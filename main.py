@@ -6,7 +6,7 @@ from machine import RTC, I2C, Pin
 from ssd1306 import SSD1306_I2C
 
 # user data
-import sectets
+import secrets
 ssid = secrets.SSID # wifi router name
 pw = secrets.PW # wifi router password
 url = "http://worldtimeapi.org/api/timezone/Europe/London" # see http://worldtimeapi.org/timezones
