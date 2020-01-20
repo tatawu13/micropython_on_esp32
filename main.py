@@ -1,4 +1,4 @@
-# ESP8266 MicroPython Web Clock
+# ESP32 MicroPython Web Clock
 # by Alan Wang
 
 import network, urequests, utime, machine
